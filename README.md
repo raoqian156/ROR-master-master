@@ -69,18 +69,15 @@ RxRetrofitApp.init(this);
 所以我们在享受它遍历的同时也被迫的要限制做很多的处理，限制我们的扩展！
 介绍如何放弃GsonConverterFactory，直接返回String，扩展我们的封装！（封装的整体思想和之前的封装一样，所以不会有大的改动！）
 
->[Rxjava+ReTrofit+okHttp深入浅出-终极封装变种](https://github.com/wzgiceman/RxjavaRetrofitDemo-string-master)
+>[Rxjava+ReTrofit+okHttp深入浅出-终极封装变种->https://github.com/wzgiceman/RxjavaRetrofitDemo-string-master]
 
->[Rxjava+ReTrofit+okHttp极简方式使用-无需任何学习成本](https://github.com/wzgiceman/Rx-Retrofit)
+>[Rxjava+ReTrofit+okHttp极简方式使用-无需任何学习成本->https://github.com/wzgiceman/Rx-Retrofit]
 
 ## 思路
 详细思路可以可以参看我的博客：
-[Rxjava+ReTrofit+okHttp深入浅出-终极封装](http://blog.csdn.net/column/details/13297.html)
+[Rxjava+ReTrofit+okHttp深入浅出-终极封装->http://blog.csdn.net/column/details/13297.html]
 
 ## 问题反馈列表集合
 
 [问题反馈列表集合-汇总解决](https://github.com/wzgiceman/RxjavaRetrofitDemo-master/blob/master/README_ep.md)
 
-##                                     QQ交流群
-
-![](https://github.com/wzgiceman/Rxbus/blob/master/gif/qq.png)
